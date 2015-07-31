@@ -4,10 +4,7 @@ class cvvcard{
 	{
       String cardNumber="4916496137058314";
       for(int i=0; i<cardNumber.length;i++){
-<<<<<<< HEAD
       	//Imprimir el codigo para probar
-=======
->>>>>>> parent of 87d2b87... cambios
       		
       }
 	}
